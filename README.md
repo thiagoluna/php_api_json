@@ -8,8 +8,8 @@ It´s needs to include security functions, but, only for tests and study it´s e
 Upload this files to a api-json folder on your PHP server to test.
 
 Ex.:
-http://www.yourdomain.com/api-json/?path=all
+www. yourdomain /api-json/?path=all
 
-http://www.youdomain.com.br/api-json/?path=series/1
+www. youdomain /api-json/?path=series/1
 
-http://www.youdomain.com.br/api-json/?path=filmes/1
+www. youdomain /api-json/?path=filmes/1
